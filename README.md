@@ -5,6 +5,11 @@ React.Js
 Node.Js 
 E-Commerce web application
 
+Clone,
+NPM Install 
+and 'npm run dev' into the root of the of the project
+
+
 Display of the products
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/12767962/129191318-d422127d-d0bc-4dda-b193-df1f7490ebcb.png)
